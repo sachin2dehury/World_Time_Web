@@ -1,2 +1,7 @@
 # World_Time_Web
- Shows Country Time from Your IP Address.
+
+Used World Time API for the data.
+
+Shows Country Time from Your IP Address.
+
+Build on Flutter, with web support.
